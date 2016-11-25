@@ -1,14 +1,10 @@
-##Sesame Workshop Coding Challenge 1
+##Sesame Workshop Coding Challenge 2
 
-Create a page with recording and playback functions with a single button. 
-User should be able to click a button to record for 30 seconds. After 30 
-seconds, recording stops and the recorded audio replays. 
+Create an iframe pointing to any URL and return the last element within 
+this iframe’s internal page's <body> tag. 
 
 Live Demo
 -------------
-https://illl48.github.io/sesame1
+http://sesame2.herokuapp.com
 
-Refenence
--------------
-http://typedarray.org/from-microphone-to-wav-with-getusermedia-and-web-audio/
  
